@@ -68,5 +68,5 @@ I love coding and building new projects 🚀
 
 <!-- CODING IMAGE BOTTOM -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/yourusername/yourusername/main/coding.png" alt="Coding Image" width="500">
+  <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 </p>
