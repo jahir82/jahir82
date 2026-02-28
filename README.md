@@ -44,7 +44,7 @@
 </td>
 
 <td>
-<img src="coding.png" width="300" alt="Coding Image">
+<img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 </td>
 
 </tr>
