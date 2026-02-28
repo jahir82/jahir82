@@ -1,42 +1,72 @@
+<!-- JAVA BANNER IMAGE TOP -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/yourusername/yourusername/main/java-banner.webp" alt="Java Banner" width="100%">
+</p>
+
 # Hi 👋, I'm Jahir Kazi
 
+### MCA Student | Aspiring Full Stack Developer | Java & Web Development Learner
+
+---
+
 ## 🚀 About Me
-- 🎓 I am a MCA student
-- 💻 I am learning Java, React JS, and Web Development
-- 🌱 Currently learning: Data Structures and Algorithms
-- 🎯 Goal: Become a Full Stack Developer
-- 📍 Location: Maharashtra, India
+
+- 🎓 MCA Student from Maharashtra, India  
+- 💻 Passionate about Java and Web Development  
+- 🌱 Currently learning Data Structures and React JS  
+- 🎯 Goal: Become a Professional Software Developer  
+- 🔥 Improving coding skills every day  
 
 ---
 
 ## 🛠️ Skills
-- Programming Languages: Java, JavaScript, C
-- Web Development: HTML, CSS, React JS
-- Tools: Git, GitHub, VS Code
+
+- ☕ Java  
+- 🌐 HTML, CSS, JavaScript  
+- ⚛️ React JS (Learning)  
+- 🗄️ Git & GitHub  
+- 💻 VS Code  
 
 ---
 
 ## 📚 Currently Learning
-- Data Structures and Algorithms
-- React JS
-- Object Oriented Programming
+
+- Data Structures and Algorithms  
+- Object Oriented Programming (OOP)  
+- React JS  
+- Full Stack Development  
 
 ---
 
 ## 📊 GitHub Stats
-![Jahir's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight">
+</p>
 
 ---
 
-## 🔥 Streak Stats
-![GitHub Streak](https://streak-stats.demolab.com/?user=yourusername&theme=tokyonight)
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=yourusername&theme=tokyonight">
+</p>
 
 ---
 
 ## 📫 Contact Me
-- Email: jahirkazi8282@gmail.com
+
+- 📧 Email: jahirkazi8282@gmail.com  
 
 ---
 
 ## ⚡ Fun Fact
-I love coding and learning new technologies every day!
+
+I love coding and building new projects 🚀
+
+---
+
+<!-- CODING IMAGE BOTTOM -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/yourusername/yourusername/main/coding.png" alt="Coding Image" width="500">
+</p>
